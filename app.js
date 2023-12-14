@@ -407,9 +407,9 @@ $(document).ready(function () {
     $icon = $(".icon"),
     cartPageBottomP = document.querySelector(".cart-page-bottom p"),
     cartPageBottomH4 = document.querySelector(".cart-page-bottom h4");
-    let textTitle = "Merry Christmas and Happy new year!";
+    let textTitle = "Chúc Thu giáng sinhh vui vẻ!";
     let charArrTitle = textTitle.split('');
-let text = "Chúc mọi người giáng sinh vui vẻ!. Năm mới cũng sắp đến, chúc mọi người có nhiều sức khỏe gặp nhiều may mắn thành công trong học tập và cuộc sống, thực hiện được ước mơ mà mình lựa chọn. Ai chưa có người yêu thì kiếm, ai có rồi thì cùng nhau đón năm mới thật hạnh phúc^^. Chúc mọi người giáng sinh an lành năm mới hạnh phúc. (Ps: Mình vẫn đang single^^.)"
+let text = "Chúc Thu giáng sinh vui vẻ nha! Kiếm nhiều tiền để thực hiện ước mơ "
 let charArrContent = text.split('');
 var currentIndexTitle = 0;
 var currentIndexContent = 0;
